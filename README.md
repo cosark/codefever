@@ -56,6 +56,7 @@
 
 - [功能特性](#功能特性)
 - [如何安装](#如何安装)
+- [一键部署](#一键部署)
 - [如何更新](#如何更新)
 - [使用说明](#使用说明)
 - [问题反馈](#问题反馈)
@@ -93,6 +94,10 @@
 
 - **(推荐)** 最简单的安装方式是使用 `Docker`, 只需要一行命令即可完成, 具体可见: [Docker 镜像安装](doc/zh-cn/installation/install_via_docker.md) 
 - 如果出于学习、研究或定制化需求, 也可以手动方式安装, 具体可见: [从零开始安装](doc/zh-cn/installation/install_from_scratch.md)
+
+### **一键部署**
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/CodeFever/)
 
 ### **如何更新**
 
